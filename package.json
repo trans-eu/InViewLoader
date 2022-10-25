@@ -1,0 +1,27 @@
+{
+    "name": "@trans.eu/InViewLoader",
+    "version": "1.0.0",
+    "description": "A React loader component with Intersection Observer API.",
+    "main": "index.jsx",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/trans-eu/InViewLoader.git"
+    },
+    "author": {
+        "name": "Trans.eu",
+        "url": "https://github.com/trans-eu"
+    },
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/trans-eu/InViewLoader/issues"
+    },
+    "homepage": "https://github.com/trans-eu/InViewLoader#readme",
+    "dependencies": {
+        "prop-types": "^15.8.1",
+        "react": "^18.2.0 || ^17.0.0",
+        "react-dom": "^18.2.0 || ^17.0.0"
+    }
+}
